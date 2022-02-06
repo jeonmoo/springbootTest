@@ -1,4 +1,4 @@
-package com.test.cont;
+package com.test.controller;
 
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
